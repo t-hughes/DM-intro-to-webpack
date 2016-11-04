@@ -1,0 +1,28 @@
+{
+  "name": "dm-intro-webpack",
+  "version": "1.0.0",
+  "description": "A simple introduction to webpack for DevMountain bootcamp students. Webpack is the latest hotness of bundlers/task-runners. We'll start with basic bundling and go from there.",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikkelrd/DM-intro-to-webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikkelrd/DM-intro-to-webpack/issues"
+  },
+  "homepage": "https://github.com/mikkelrd/DM-intro-to-webpack#readme",
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-preset-es2015": "^6.18.0",
+    "webpack": "^1.13.3"
+  },
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
