@@ -1,6 +1,3 @@
-'use strict';
-let webpack = require('webpack');
-
 module.exports = {
   entry: './entry.js',
   output: {
